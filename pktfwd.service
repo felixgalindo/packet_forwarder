@@ -1,6 +1,6 @@
 
 [Unit]
-Description=packet forwarder
+Description=LoraWan Packet Forwarder
 Wants=network-online.target
 After=network.target mosquitto.service
 
